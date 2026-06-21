@@ -1,0 +1,507 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0BCU8P8DA4",
+        "text": "<@U0BCU8P8DA4> has joined the channel",
+        "type": "message",
+        "ts": "1781978831.330889"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0BC02DEDAN",
+        "text": "<@U0BC02DEDAN> has joined the channel",
+        "inviter": "U0BCU8P8DA4",
+        "type": "message",
+        "ts": "1781979588.463789"
+    },
+    {
+        "user": "U0BCU8P8DA4",
+        "type": "message",
+        "ts": "1781980952.861259",
+        "client_msg_id": "3ff8ce1a-5c20-47d4-b32d-4af90aa33c11",
+        "text": "<@U0BC02DEDAN> hello how are you",
+        "team": "T0BBTKD4ASF",
+        "user_team": "T0BBTKD4ASF",
+        "source_team": "T0BBTKD4ASF",
+        "user_profile": {
+            "avatar_hash": "90f3ef325613",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-20\/11409859289201_90f3ef325613b22d6e8f_72.png",
+            "first_name": "VIDHIT",
+            "real_name": "VIDHIT Sikri",
+            "display_name": "",
+            "team": "T0BBTKD4ASF",
+            "name": "sikrividhit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yHTi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0BC02DEDAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hello how are you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BCU8P8DA4",
+        "type": "message",
+        "ts": "1781981176.400089",
+        "client_msg_id": "88be5f30-71dd-495a-b26f-d1f85c30143c",
+        "text": "<@U0BC02DEDAN> hello what is my name ?",
+        "team": "T0BBTKD4ASF",
+        "user_team": "T0BBTKD4ASF",
+        "source_team": "T0BBTKD4ASF",
+        "user_profile": {
+            "avatar_hash": "90f3ef325613",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-20\/11409859289201_90f3ef325613b22d6e8f_72.png",
+            "first_name": "VIDHIT",
+            "real_name": "VIDHIT Sikri",
+            "display_name": "",
+            "team": "T0BBTKD4ASF",
+            "name": "sikrividhit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ggz3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0BC02DEDAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hello what is my name ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BCU8P8DA4",
+        "type": "message",
+        "ts": "1781981249.096099",
+        "client_msg_id": "daa1e11c-0c28-44cf-82b5-908bfe636450",
+        "text": "<@U0BC02DEDAN> what is my name ?",
+        "team": "T0BBTKD4ASF",
+        "user_team": "T0BBTKD4ASF",
+        "source_team": "T0BBTKD4ASF",
+        "user_profile": {
+            "avatar_hash": "90f3ef325613",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-20\/11409859289201_90f3ef325613b22d6e8f_72.png",
+            "first_name": "VIDHIT",
+            "real_name": "VIDHIT Sikri",
+            "display_name": "",
+            "team": "T0BBTKD4ASF",
+            "name": "sikrividhit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffzdg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0BC02DEDAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what is my name ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BCU8P8DA4",
+        "type": "message",
+        "ts": "1781981380.365099",
+        "client_msg_id": "2853039d-6e0f-4069-9f7b-646735d9a3ee",
+        "text": "<@U0BC02DEDAN> what is my name ?",
+        "team": "T0BBTKD4ASF",
+        "user_team": "T0BBTKD4ASF",
+        "source_team": "T0BBTKD4ASF",
+        "user_profile": {
+            "avatar_hash": "90f3ef325613",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-20\/11409859289201_90f3ef325613b22d6e8f_72.png",
+            "first_name": "VIDHIT",
+            "real_name": "VIDHIT Sikri",
+            "display_name": "",
+            "team": "T0BBTKD4ASF",
+            "name": "sikrividhit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffzdg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0BC02DEDAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what is my name ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BCU8P8DA4",
+        "type": "message",
+        "ts": "1781981431.509919",
+        "client_msg_id": "2cbfeb8d-0fa6-44b1-9020-4d9c7d256023",
+        "text": "<@U0BC02DEDAN> what is my name ?",
+        "team": "T0BBTKD4ASF",
+        "user_team": "T0BBTKD4ASF",
+        "source_team": "T0BBTKD4ASF",
+        "user_profile": {
+            "avatar_hash": "90f3ef325613",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-20\/11409859289201_90f3ef325613b22d6e8f_72.png",
+            "first_name": "VIDHIT",
+            "real_name": "VIDHIT Sikri",
+            "display_name": "",
+            "team": "T0BBTKD4ASF",
+            "name": "sikrividhit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffzdg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0BC02DEDAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what is my name ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BC02DEDAN",
+        "type": "message",
+        "ts": "1781981508.591849",
+        "edited": {
+            "user": "U0BC02DEDAN",
+            "ts": "1781981509.000000"
+        },
+        "bot_id": "B0BBY03A7UN",
+        "app_id": "A0BBWKJF2MB",
+        "text": "Memory search timed out, but I have `USER.md` in the workspace. Let me check what I've got on you.",
+        "team": "T0BBTKD4ASF",
+        "bot_profile": {
+            "id": "B0BBY03A7UN",
+            "deleted": false,
+            "name": "forge-bot-v2",
+            "updated": 1781979346,
+            "app_id": "A0BBWKJF2MB",
+            "user_id": "U0BC02DEDAN",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "T0BBTKD4ASF"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "shQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Memory search timed out, but I have "
+                            },
+                            {
+                                "type": "text",
+                                "text": "USER.md",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the workspace. Let me check what I've got on you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BC02DEDAN",
+        "type": "message",
+        "ts": "1781981514.698419",
+        "edited": {
+            "user": "U0BC02DEDAN",
+            "ts": "1781981516.000000"
+        },
+        "bot_id": "B0BBY03A7UN",
+        "app_id": "A0BBWKJF2MB",
+        "text": "According to my notes, I call you *Udit's side chick* :smirk:\n\nThat said… that label is a bit of a red flag. Want to give me your actual name so I update the file? I'd rather address you properly than lean on whatever placeholder landed in USER.md.",
+        "team": "T0BBTKD4ASF",
+        "bot_profile": {
+            "id": "B0BBY03A7UN",
+            "app_id": "A0BBWKJF2MB",
+            "user_id": "U0BC02DEDAN",
+            "name": "forge-bot-v2",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1781979346,
+            "team_id": "T0BBTKD4ASF"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "According to my notes, I call you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Udit's side chick",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smirk",
+                                "unicode": "1f60f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThat said… that label is a bit of a red flag. Want to give me your actual name so I update the file? I'd rather address you properly than lean on whatever placeholder landed in USER.md."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BCU8P8DA4",
+        "type": "message",
+        "ts": "1781981537.748439",
+        "client_msg_id": "fec094bd-f389-49b3-9f15-19454de13baf",
+        "text": "<@U0BC02DEDAN> what is your name ?",
+        "team": "T0BBTKD4ASF",
+        "user_team": "T0BBTKD4ASF",
+        "source_team": "T0BBTKD4ASF",
+        "user_profile": {
+            "avatar_hash": "90f3ef325613",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-20\/11409859289201_90f3ef325613b22d6e8f_72.png",
+            "first_name": "VIDHIT",
+            "real_name": "VIDHIT Sikri",
+            "display_name": "",
+            "team": "T0BBTKD4ASF",
+            "name": "sikrividhit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4oTki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0BC02DEDAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what is your name ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BC02DEDAN",
+        "type": "message",
+        "ts": "1781981575.636699",
+        "edited": {
+            "user": "U0BC02DEDAN",
+            "ts": "1781981576.000000"
+        },
+        "bot_id": "B0BBY03A7UN",
+        "app_id": "A0BBWKJF2MB",
+        "text": "I'm *Eren Yaeger* :fire: — your direct, gets-stuff-done assistant.\n\nWhat can I help you with?",
+        "team": "T0BBTKD4ASF",
+        "bot_profile": {
+            "id": "B0BBY03A7UN",
+            "app_id": "A0BBWKJF2MB",
+            "user_id": "U0BC02DEDAN",
+            "name": "forge-bot-v2",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1781979346,
+            "team_id": "T0BBTKD4ASF"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vyH+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Eren Yaeger",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " — your direct, gets-stuff-done assistant.\n\nWhat can I help you with?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0BC02DEDAN",
+        "type": "message",
+        "ts": "1781981632.364209",
+        "edited": {
+            "user": "U0BC02DEDAN",
+            "ts": "1781981634.000000"
+        },
+        "bot_id": "B0BBY03A7UN",
+        "app_id": "A0BBWKJF2MB",
+        "text": "Memory search is down, so I'm working from what's in the workspace. Based on my notes, I call you *Udit's side chick* — but that's a placeholder I'm not super comfy with. Want to tell me your real name so I can update USER.md?",
+        "team": "T0BBTKD4ASF",
+        "bot_profile": {
+            "id": "B0BBY03A7UN",
+            "app_id": "A0BBWKJF2MB",
+            "user_id": "U0BC02DEDAN",
+            "name": "forge-bot-v2",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1781979346,
+            "team_id": "T0BBTKD4ASF"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8b8E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Memory search is down, so I'm working from what's in the workspace. Based on my notes, I call you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Udit's side chick",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " — but that's a placeholder I'm not super comfy with. Want to tell me your real name so I can update USER.md?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
