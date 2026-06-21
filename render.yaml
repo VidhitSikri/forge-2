@@ -1,11 +1,11 @@
 services:
   - type: web
     name: kanban-backend
-    runtime: docker
+    env: docker
     plan: free
     dockerfilePath: backend/Dockerfile
     envVars:
       - key: APP_ENV
         value: production
       - key: APP_DEBUG
-        value: "false"
+        value: false
