@@ -13,14 +13,16 @@ class CardResource extends JsonResource
     public function toArray(Request $request): array
     {
         return [
-            'id' => $this->id,
-            'column_id' => $this->column_id,
-            'title' => $this->title,
+            'id'          => $this->id,
+            'column_id'   => $this->column_id,
+            'title'       => $this->title,
             'description' => $this->description,
-            'due_date' => $this->due_date?->toIso8601String(),
-            'position' => $this->position,
-            'created_at' => $this->created_at?->toIso8601String(),
-            'updated_at' => $this->updated_at?->toIso8601String(),
+            'due_date'    => $this->due_date?->toIso8601String(),
+            'position'    => $this->position,
+            'tags'        => $this->tags ?? [],
+            'members'     => $this->members ?? [],
+            'created_at'  => $this->created_at?->toIso8601String(),
+            'updated_at'  => $this->updated_at?->toIso8601String(),
         ];
     }
 }

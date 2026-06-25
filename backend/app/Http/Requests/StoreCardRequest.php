@@ -17,10 +17,14 @@ class StoreCardRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'title' => ['required', 'string', 'max:255'],
-            'description' => ['nullable', 'string', 'max:65535'],
-            'due_date' => ['nullable', 'date'],
-            'position' => ['nullable', 'integer', 'min:0'],
+            'title'           => ['required', 'string', 'max:255'],
+            'description'     => ['nullable', 'string', 'max:65535'],
+            'due_date'        => ['nullable', 'date'],
+            'position'        => ['nullable', 'integer', 'min:0'],
+            'tags'            => ['nullable', 'array'],
+            'tags.*'          => ['string', 'max:50'],
+            'members'         => ['nullable', 'array'],
+            'members.*.name'  => ['required_with:members', 'string', 'max:100'],
         ];
     }
 }

@@ -29,6 +29,8 @@ class Card extends Model
         'description',
         'due_date',
         'position',
+        'tags',
+        'members',
     ];
 
     /**
@@ -41,6 +43,8 @@ class Card extends Model
         return [
             'due_date' => 'datetime',
             'position' => 'integer',
+            'tags'     => 'array',
+            'members'  => 'array',
         ];
     }
 
