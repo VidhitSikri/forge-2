@@ -1,0 +1,135 @@
+{
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "ollama/minimax-m3:cloud"
+      },
+      "models": {
+        "google/gemini-2.5-flash": {},
+        "google/gemini-3.1-pro-preview": {}
+      },
+      "workspace": "~/.openclaw/workspace"
+    }
+  },
+  "auth": {
+    "profiles": {
+      "google:default": {
+        "mode": "api_key",
+        "provider": "google"
+      }
+    }
+  },
+  "channels": {
+    "slack": {
+      "accounts": {
+        "default": {},
+        "u0bcu8p8da4": {
+          "appToken": "<REDACTED>",
+          "botToken": "<REDACTED>",
+          "capabilities": {
+            "interactiveReplies": false
+          },
+          "channels": {
+            "C0BBTLPRDFV": { "enabled": true },
+            "C0BBTLQ2FJ7": { "enabled": true },
+            "C0BBWKA83FF": { "enabled": true },
+            "C0BC01R5GF4": { "enabled": true },
+            "C0BC1SNEY4R": { "enabled": true },
+            "C0BCUA0UXSL": { "enabled": true }
+          },
+          "enabled": true,
+          "groupPolicy": "allowlist"
+        }
+      },
+      "enabled": true
+    }
+  },
+  "gateway": {
+    "auth": {
+      "mode": "token",
+      "token": "<REDACTED>"
+    },
+    "bind": "loopback",
+    "controlUi": {
+      "allowInsecureAuth": true
+    },
+    "mode": "local",
+    "nodes": {
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "contacts.add",
+        "calendar.add",
+        "reminders.add",
+        "sms.send",
+        "sms.search"
+      ]
+    },
+    "port": 18789,
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    }
+  },
+  "models": {
+    "providers": {
+      "ollama": {
+        "api": "ollama",
+        "apiKey": "ollama-local",
+        "baseUrl": "http://127.0.0.1:11434",
+        "models": [
+          {
+            "contextWindow": 524288,
+            "cost": {
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "input": 0,
+              "output": 0
+            },
+            "id": "minimax-m3:cloud",
+            "input": ["text"],
+            "maxTokens": 131072,
+            "name": "minimax-m3:cloud"
+          }
+        ]
+      }
+    }
+  },
+  "plugins": {
+    "entries": {
+      "google": {
+        "config": {
+          "webSearch": {
+            "apiKey": "<REDACTED>"
+          }
+        },
+        "enabled": true
+      },
+      "ollama": {
+        "enabled": true
+      },
+      "slack": {
+        "enabled": true
+      }
+    }
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "tools": {
+    "profile": "coding",
+    "web": {
+      "search": {
+        "enabled": true,
+        "provider": "gemini"
+      }
+    }
+  },
+  "wizard": {
+    "lastRunAt": "2026-06-20T16:46:33.913Z",
+    "lastRunCommand": "onboard",
+    "lastRunMode": "local",
+    "lastRunVersion": "2026.6.8"
+  }
+}
